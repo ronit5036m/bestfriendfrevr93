@@ -1,0 +1,96 @@
+
+body{
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-size: 100% 100%;
+
+		}
+	
+		
+		
+.font_style{
+
+	color: #333;
+	
+}
+
+.nuv_menu{
+	width: 550px;
+	height: 100px;
+	background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.1); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+	margin: 0 auto;
+	border-radius: 30px;
+	border: 10px ;
+	
+
+
+}
+
+.nuv_menu ul{}
+
+.nuv_menu ul li {
+
+	 list-style-type: none;
+	 margin: 25px;
+	 float: left;
+}
+
+.nuv_menu ul li a {	
+text-decoration: none;
+font-size: 21px;
+color: #333;
+
+
+}
+
+.nuv_menu ul li a:hover{
+
+	text-decoration: ;
+	font-size: 200%;
+	display: block;
+	background-color: #DCDCDC ;
+	border-radius: 40px;
+	
+
+}
+
+.style-friend {
+
+	border-radius: 25px;
+	padding-bottom: 90px;
+	padding-top: 80px;
+
+
+}
+
+.style-friend img {
+
+	mix-blend-mode: multiply;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-bottom: ;
+	margin-top: 80px;
+	height: 300px;
+	width: 700px;
+	height: 800px;
+	border-radius: 200px;
+}
+
+.foot{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 250px;
+	font-size: 15px;
+	padding-right: 80px;
+	background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.2); /* Black background with 0.5 opacity */
+  color:  ##8E8E8E;
+  position: relative;
+  border-radius: 8px;
+}
+.style-friend{
+
+
+}
